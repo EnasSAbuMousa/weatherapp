@@ -37,7 +37,7 @@ class _DrawerHomeState extends State<DrawerHome> {
               padding: const EdgeInsets.only(left: 10.0 ,right: 10.0),
               child: Container(
                   decoration: BoxDecoration(color: const Color(0xBF706E6E),borderRadius: BorderRadius.circular(10)),
-                  height: 55,
+                  height: 56,
                   child: ListTile(
                     leading: const Icon(Icons.home,color: Colors.white),
                     title: const Text('Home',style: TextStyle(color: Color(0xFFFFFFFF)),),
