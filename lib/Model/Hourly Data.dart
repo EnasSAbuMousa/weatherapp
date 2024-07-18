@@ -16,4 +16,5 @@ class HourlyData {
          temperatureC: json['temp_c'],
          condition: json['condition']['text'],
    );
+   
 }
