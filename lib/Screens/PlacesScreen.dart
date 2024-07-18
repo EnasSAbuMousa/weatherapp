@@ -230,4 +230,5 @@ class _PlacesScreenState extends State<PlacesScreen> {
     setState(() {
     });
   }
+  
 }
