@@ -38,7 +38,7 @@ class PlaceProvider extends ChangeNotifier{
   }
 
   String getPlace(){
-    return _Home.get(1) ?? 'Hebron PS';
+    return _Home.get(1) ?? 'Gaza';
   }
 
 }
