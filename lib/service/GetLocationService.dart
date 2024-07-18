@@ -19,5 +19,6 @@ class GetLocation {
     return await Geolocator.getCurrentPosition(
       desiredAccuracy: LocationAccuracy.high,
     );
-  }
+  } 
+  
 }
