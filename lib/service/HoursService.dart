@@ -35,5 +35,6 @@ class HoursService {
     } catch (e) {
       rethrow;
     }
-  }
+  } 
+  
 }
