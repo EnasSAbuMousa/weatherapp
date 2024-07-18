@@ -18,4 +18,5 @@ class DailyData {
     tempCL: json['day']['mintemp_c'],
     condition: json['day']['condition']['text'],
   );
+  
 }
