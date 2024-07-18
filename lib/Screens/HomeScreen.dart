@@ -29,7 +29,7 @@ class _HomeScreenState extends State<HomeScreen>  {
 
                 Text(widget.DataWeather.country,textAlign: TextAlign.center ,style: const TextStyle(fontSize: 40,color: Color(0xFFFFFFFF))),
 
-                const SizedBox(height: 6),
+                const SizedBox(height: 5),
 
                 TestImage(assetImagePath: 'assets/${widget.DataWeather.condition}.png',height: 150,width: 150),
 
