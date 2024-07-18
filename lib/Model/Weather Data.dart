@@ -29,4 +29,5 @@ class WeatherData {
         condition: json['current']['condition']['text']);
   }
 
+  
 }
