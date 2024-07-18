@@ -8,7 +8,7 @@ class City {
   static List<City> citiesList = [
 
     City(
-      city: 'Hebron Ps',
+      city: 'Gaza',
     ),
     City(
       city: 'Amman',
