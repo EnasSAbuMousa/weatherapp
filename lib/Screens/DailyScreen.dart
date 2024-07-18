@@ -58,7 +58,7 @@ class _DailyScreenState extends State<DailyScreen> {
       case 5:
         return 'Friday';
       case 6:
-        return 'Saturdaay';
+        return 'Saturday';
       case 7:
         return 'Sunday';
       default:
